@@ -1,5 +1,5 @@
 # 💫 About Me:
-😀 My name is Maytton, I'm 24 years old, I'm a Software Engineering student.<br>🔭 I currently work as a back-end developer<br>🌱 I am currently learning Java, Spring Boot and English
+😀 My name is Maytton, I'm 25 years old, I'm a Software Engineering student.<br>🔭 I currently work as a back-end developer<br>
 
 
 ## 🌐 Socials:
